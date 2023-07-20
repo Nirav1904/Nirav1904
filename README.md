@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" height="100" /></a>
 
  Hello Myself Nirav Parmar.A self-taught, passionate and fast-learner full-stack developer from Gujrat,India 🌎.
  Now I'm a final year student of B.TechSpecialization in Artificial intelligence 👨‍🎓. I love to work with new technologies and developing web applications 🔭. 
