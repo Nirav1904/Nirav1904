@@ -7,7 +7,7 @@
  Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱.
 - 🔭 I’m currently working on DSA
 - 🌱 I’m currently learning Reactjs, web scraping ,IR,IE
-- 📫 How to reach me: https://www.linkedin.com/in/nirav-parmar-09b45a228/
+- 📫 How to reach me:https://www.linkedin.com/in/nirav-parmar-2431682a8/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:I can solve a Rubik's cube in under 5 minutes!
 -->
